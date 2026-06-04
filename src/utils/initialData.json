@@ -1,0 +1,249 @@
+{
+    "InitialJobUserData": {
+        "loading": false,
+        "token": "",
+        "user": null,
+        "data": null,
+        "jobuser": {},
+        "role": "",
+        "shouldFetchRole": false
+    },
+    "JobAplicationFomINtialData": {
+        "firstName": "",
+        "lastName": "",
+        "email": "",
+        "phoneNumber": "",
+        "address": "",
+        "city": "",
+        "zipCode": "",
+        "cv": "",
+        "loading": false,
+        "reumeloading": false,
+        "isresumeuploaded": true
+    },
+    "jobPortalformInitialData": {
+        "first_name": "",
+        "last_name": "",
+        "email": "",
+        "phone_number": "",
+        "role": "",
+        "info_about_me": "",
+        "country_id": "",
+        "state_id": "",
+        "city_id": "",
+        "profilephoto": null,
+        "profilephotoPreview": null,
+        "isPhoneValid": true,
+        "resume": null,
+        "statelist": [],
+        "citylist": [],
+        "counrylist": [],
+        "skills": []
+    },
+    "initialAuthSLiceData": {
+        "searchedQuery": "",
+        "location": [],
+        "category": [],
+        "subcategory": [],
+        "min_years": "",
+        "max_years": "",
+        "minSalary": "",
+        "maxSalary": "",
+        "jobtypes": "",
+        "SimilarJobs": [],
+        "editJob": {},
+        "time": 1696176000000
+    },
+    "initialRecruiterform": {
+        "personalDetails": {
+            "profilephoto": null,
+            "first_name": "",
+            "middle_name": "",
+            "last_name": "",
+            "phone": "",
+            "currentAddress": {
+                "street": "",
+                "city_id": "",
+                "state_id": "",
+                "zipCode": "",
+                "country_id": ""
+            },
+            "permanentAddress": {
+                "street": "",
+                "city_id": "",
+                "state_id": "",
+                "zipCode": "",
+                "country_id": ""
+            }
+        },
+        "email": "",
+        "company": {
+            "aboutus": "",
+            "skills": [],
+            "companylogo": null,
+            "achievement": [],
+            "currentDesignation": "",
+            "from": "",
+            "name": "",
+            "address1": "",
+            "address2": "",
+            "city_id": "",
+            "state_id": "",
+            "country_id": "",
+            "totalExperience": "",
+            "levelIHireFor": [],
+            "industry": [],
+            "subindustry": [],
+            "website": ""
+        },
+        "termsOfService": false
+    },
+    "JobroutesData": [
+        {
+            "path": "/JobSection"
+        },
+        {
+            "path": "/SkeltonLoader"
+        },
+        {
+            "path": "/job/RecuiterForm"
+        },
+        {
+            "path": "/job/JobseekerForm"
+        },
+        {
+            "path": "/jobs"
+        },
+        {
+            "path": "/description/:id"
+        },
+        {
+            "path": "/categories"
+        },
+        {
+            "path": "/JobPortalPricing"
+        },
+        {
+            "path": "/job/editdata"
+        },
+        {
+            "path": "/job/profiledata"
+        },
+        {
+            "path": "/jobs/applied"
+        },
+        {
+            "path": "/admin/companies"
+        },
+        {
+            "path": "/admin/companies/create"
+        },
+        {
+            "path": "/admin/companies/:id"
+        },
+        {
+            "path": "/company/:id"
+        },
+        {
+            "path": "/admin/jobs"
+        },
+        {
+            "path": "/admin/jobs/create"
+        },
+        {
+            "path": "/ExampleComponent"
+        },
+        {
+            "path": "/admin/job/:id"
+        },
+        {
+            "path": "/admin/jobs/:id/applicants"
+        },
+        {
+            "path": "/admin/applicants"
+        },
+        {
+            "path": "/admin/applicants/shortlists"
+        }
+    ],
+    "initialjobseekerform": {
+        "personalDetails": {
+            "profilephoto": null,
+            "first_name": "",
+            "middle_name": "",
+            "last_name": "",
+            "dateOfBirth": "",
+            "placeOfBirth": "",
+            "age": "",
+            "currentLocation": "",
+            "currentAddress": {
+                "street": "",
+                "city_id": "",
+                "state_id": "",
+                "zipCode": "",
+                "country_id": ""
+            },
+            "permanentAddress": {
+                "street": "",
+                "city_id": "",
+                "state_id": "",
+                "zipCode": "",
+                "country_id": ""
+            },
+            "languagesKnown": []
+        },
+        "ContactDetails": {
+            "phone": "",
+            "whatsappphone": "",
+            "portfolioLink": "",
+            "linkedinprofileLink": ""
+        },
+        "employmentdetails": {
+            "employmentStatus": "",
+            "experience": "",
+            "jobtype": "",
+            "careerlevel": "",
+            "functionalarea": "",
+            "industry": "",
+            "Specialization": ""
+        },
+        "educationDetails": [
+            {
+                "degree": "",
+                "institution": "",
+                "yearOfCompletion": "",
+                "percentage": "",
+                "board": ""
+            }
+        ],
+        "keySkills": [
+            {
+                "skill": "",
+                "proficiency": ""
+            },
+            {
+                "skill": "",
+                "proficiency": ""
+            },
+            {
+                "skill": "",
+                "proficiency": ""
+            }
+        ],
+        "communicationSkills": {
+            "english": "",
+            "hindi": "",
+            "gujarati": "",
+            "marathi": ""
+        },
+        "additionalInformation": {
+            "computerProficiency": "",
+            "currentSalary": "",
+            "salaryExpectations": "",
+            "howdidyouhearaboutmysso": "",
+            "resume": "",
+            "IdProof": ""
+        },
+        "email": ""
+    }
+}

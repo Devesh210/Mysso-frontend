@@ -1,0 +1,33 @@
+{
+    "profiledata": {
+        "additionalInformation": {
+            "hide": [
+                "_id",
+                "resumeurl",
+                "IdProofurl"
+            ],
+            "rename": {
+                "resumeOriginalName": {
+                    "link": "resumeurl",
+                    "name": "Resume"
+                },
+                "IdProofOriginalName": {
+                    "link": "IdProofurl",
+                    "name": "Id Proof"
+                },
+                "currentSalary": {
+                    "name": "Current Salary (LPA)"
+                },
+                "computerProficiency": {
+                    "name": "Computer Proficiency"
+                },
+                "salaryExpectations": {
+                    "name": "Salary Expectations (LPA)"
+                },
+                "howdidyouhearaboutmysso": {
+                    "name": " how did you hear about ShreeSSO"
+                }
+            }
+        }
+    }
+}

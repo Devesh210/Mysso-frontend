@@ -1,0 +1,575 @@
+@media only screen and (max-width: 600px) {
+    .slick-slider.slider1.slick-initialized {
+        padding: 0px 0px;
+    }
+
+    .main-tabs {
+        overflow-y: scroll;
+    }
+
+    .achievement h3 {
+        font-size: 25px;
+    }
+
+    .borderimgg {
+        position: absolute;
+        left: 38%;
+        top: 38px;
+        width: 160px;
+    }
+
+    .row.achie .col-lg-2 {
+        width: 50%;
+        margin-bottom: 30px;
+    }
+
+    h5.service-texts {
+        line-height: 1.5;
+        font-size: 15px;
+        margin-top: 8px;
+    }
+
+    h4.service-text {
+        font-size: 22px;
+        margin-top: 10px;
+    }
+
+    .achievement.container-fluid {
+        padding-bottom: 10px;
+    }
+
+    .about-us {
+        padding: 0px 15px 50px !important;
+    }
+
+    .textabout {
+        padding-bottom: 30px;
+        padding-top: 30px;
+    }
+
+    .textabout h3 {
+        font-size: 23px;
+    }
+
+    .textabout img {
+        position: absolute;
+        left: 48%;
+        top: 35px;
+        width: 85px;
+    }
+
+    .about-us p {
+        font-size: 15px;
+    }
+
+    .about-us h2 {
+        font-size: 15px;
+    }
+
+    .about-us .col-lg-8 {
+        margin-bottom: 50px;
+    }
+
+    .contactdetails img {
+        width: 70px;
+        float: left;
+    }
+
+    .testimonial-box {
+        padding: 5px 0px;
+    }
+
+    .subscriber img {
+        float: left;
+        width: 100px;
+        padding-bottom: 25px;
+    }
+
+    .footer {
+        padding-left: 5px;
+        padding-right: 5px;
+        padding-top: 30px;
+        padding-bottom: 30px;
+    }
+
+    .firstbox p {
+        font-size: 15px;
+    }
+
+    .socials img {
+        width: 35px;
+        margin-bottom: 30px;
+    }
+
+    .secondbox h4 {
+        margin-bottom: 10px;
+    }
+
+    .secondbox {
+        margin-bottom: 30px;
+    }
+
+    .faq-section {
+        padding-top: 30px;
+        padding-left: 5px;
+        padding-right: 5px;
+        padding-bottom: 30px;
+    }
+
+    .faqsec {
+        padding: 15px;
+        margin-top: 40px;
+    }
+
+    .accordion-button {
+        font-size: 13px !important;
+        line-height: 1.5;
+    }
+
+    .accordion-body {
+        font-size: 12px;
+    }
+
+    .faq h3 {
+        font-size: 18px;
+    }
+
+    .imgfaq {
+        left: 60%;
+        top: 25px;
+        width: 100px;
+    }
+
+    .testimonial-blocks.container {
+        margin-top: 60px;
+        padding-bottom: 20px;
+    }
+
+    hr.hrllineee {
+        display: none;
+    }
+
+    .testimonial h3 {
+        font-size: 20px;
+    }
+
+    .imgtestimonial {
+        left: 55%;
+        top: 30px;
+        width: 130px;
+    }
+
+    video {
+        width: 100%;
+    }
+
+    .main-tabs button {
+        padding: 0px 30px;
+        background-image: none;
+    }
+
+    .sub-tabs button {
+        width: 100%;
+    }
+
+    .sub-tabs {
+        padding: 5px;
+    }
+
+    .photogallery1 h3 {
+        font-size: 24px;
+    }
+
+    img.photogalleryimgg {
+        left: 64%;
+        top: 33px;
+        width: 90px;
+    }
+
+    .worldwide h3 {
+        font-size: 22px;
+    }
+
+    .world-tabs ul li button {
+        width: 290px;
+    }
+
+    .borderimgg1 {
+        position: absolute;
+        left: 54%;
+        top: 34px;
+        width: 110px;
+    }
+
+    .copyright p {
+        font-size: 11px;
+    }
+
+    .successstories h3 {
+        font-size: 25px;
+    }
+
+    successstoriesimgg {
+        position: absolute;
+        left: 26%;
+        top: 65px;
+        width: 200px;
+    }
+
+    .featuredprofile-section {
+        padding-top: 15px;
+        padding-bottom: 15px;
+    }
+
+    .featuredprofile h3 {
+        font-size: 24px;
+    }
+
+    .featuredprofile-section .slider1 {
+        margin-top: 60px;
+    }
+
+    img.featuredpro {
+        left: 30%;
+        top: 36px;
+        width: 189px;
+    }
+
+    .overlay123 {
+        bottom: 36px;
+        top: initial;
+        height: 100%;
+    }
+
+    .col-lg-3.flowerimg {
+        margin-bottom: 50px;
+    }
+
+    .col-lg-3.flowerimg img {
+        top: -48px;
+        left: 44%;
+    }
+
+    .counttop-section {
+        padding-bottom: 0px;
+    }
+
+    .support-content p {
+        font-size: 12px;
+        margin-bottom: 30px;
+    }
+
+    .support-content img {
+        width: 105px;
+        margin-top: 25px;
+    }
+
+    .support-content h3 {
+        font-size: 18px;
+    }
+
+    .support-content img {
+        width: 85px;
+        margin-top: 25px;
+    }
+
+    .membership h3 {
+        font-size: 23px;
+    }
+
+    img.membershipimg {
+        left: 30%;
+        top: 35px;
+        width: 190px;
+    }
+
+    .membership-section .col-md-6.col-lg-4 {
+        width: 100%;
+    }
+
+    section.memberplanboxx {
+        margin-top: 60px;
+        margin-bottom: 25px;
+    }
+
+    .second {
+        position: relative;
+        top: -10px;
+    }
+
+    .successstoriesimgg {
+        position: absolute;
+        left: 23%;
+        top: 65px;
+        width: 196px;
+    }
+
+    .overlay12 {
+        position: relative;
+        top: 0px;
+    }
+
+    .overlaycontentnt h3 {
+        font-size: 18px;
+        padding-top: 30px;
+        padding-bottom: 25px;
+        line-height: 1.6;
+    }
+
+    button.search-partner {
+        font-size: 15px !important;
+    }
+
+    .startup-intross p {
+        margin-bottom: 90px;
+    }
+
+    .overlaycontentnt.starup {
+        padding-bottom: 5px;
+    }
+
+    .startup-intross h3 {
+        font-size: 18px;
+    }
+
+    h3.startuabout {
+        font-size: 22px;
+    }
+
+    button.search-partner {
+        margin-top: -10px;
+    }
+
+    .selectbutt .col-lg-2 {
+        width: 50% !important;
+        margin-bottom: 15px;
+    }
+
+    .Support.Categories {
+        padding-left: 15px;
+        padding-bottom: 0px;
+        padding-right: 15px;
+    }
+
+    .matrimonial-search.container-fluid {
+        padding-top: 30px;
+        padding-left: 10px;
+        padding-right: 10px;
+    }
+
+    .educational-banner .col-lg-2 {
+        max-width: 100% !important;
+        width: 100% !important;
+    }
+
+    .strat-content p {
+        font-size: 14px;
+        padding: 0px 15px;
+    }
+
+    .members-details-tabs.nav-tabs .nav-link {
+        width: 100%;
+        margin-bottom: 15px;
+    }
+
+    .empty-state {
+        width: 100%;
+    }
+
+    h4.counter-title {
+        font-size: 10px;
+        margin-top: 10px;
+    }
+
+    section.about-section-three {
+        padding-bottom: 30px !important;
+    }
+
+    span.odometer.odometer-auto-theme {
+        font-size: 33px;
+    }
+
+    .container-fluid.aboutus_abdss {
+        padding-left: 15px !important;
+        padding-right: 15px !important;
+    }
+
+    .sec-title h2 {
+        font-size: 26px;
+        margin-top: 20px;
+        margin-bottom: 30px;
+    }
+
+    .members-details-tabs.nav.nav-tabs li {
+        width: 100%;
+    }
+
+    .startup-intross p {
+        font-size: 16px;
+        padding: 0px 15px;
+    }
+
+    .strat-content h3 {
+        font-size: 16px;
+    }
+
+    .searchrightside {
+        margin-top: 50px;
+    }
+
+    .profilelocation.row {
+        padding-top: 0px;
+    }
+
+    .profilelocation.row .col-lg-6 {
+        text-align: center;
+    }
+
+    button.view-user-profile {
+        float: initial;
+        margin-top: 10px;
+    }
+
+    .matrimonial-profile.container-fluid {
+        padding-top: 30px;
+        padding-bottom: 30px;
+        padding-left: 10px;
+        padding-right: 10px;
+    }
+
+    .login_form1 {
+        margin-left: 0px;
+        margin-right: 0px;
+        padding: 10px 20px 40px;
+    }
+
+    .login_form img {
+        width: 80%;
+    }
+
+    ul.text-muted li {
+        margin-bottom: 5px;
+    }
+
+    ul.text-muted {
+        padding-left: 0px;
+        margin-top: 10px;
+    }
+
+    ul.text-muted .fa {
+        margin-right: 5px;
+        font-size: 17px;
+        position: relative;
+        top: 2px;
+    }
+
+    .login .col-lg-6 img {
+        padding: 30px 20px 0px !important;
+    }
+
+    .topheader h3 {
+        font-size: 9px;
+        text-align: center;
+    }
+
+    .topheader .container-fluid {
+        padding-left: 10px !important;
+        padding-right: 10px !important;
+    }
+
+    .topheader .col-lg-8 {
+        font-size: 10px;
+        text-align: center;
+    }
+
+    .mb-4.col-lg-3 {
+        margin-bottom: 10px !important;
+    }
+
+    .topheader .col-lg-8 .fa {
+        margin-right: 5px;
+        margin-left: 5px;
+        font-size: 11px;
+        margin-top: 10px;
+    }
+
+    .empty-state__content {
+        padding: 30px;
+        width: 100%;
+        box-shadow: 0px 15.88px 84.69px 0px #141E271A;
+    }
+
+    img.nopageimg {
+        width: 100%;
+    }
+
+    button.send-opttp {
+        position: initial;
+        margin-top: -5px;
+        margin-bottom: 10px;
+        font-size: 15px;
+        padding: 8px 20px;
+    }
+
+    button.submit-opttp {
+        position: initial;
+        margin-top: -5px;
+        margin-bottom: 10px;
+        font-size: 15px;
+        padding: 8px 20px;
+    }
+
+    button.submit-opttpverified {
+        position: initial;
+        margin-top: -5px;
+        margin-bottom: 10px;
+        font-size: 15px;
+        padding: 8px 20px;
+    }
+
+    button.verify-opttp {
+        position: initial;
+        margin-top: -5px;
+        margin-bottom: 10px;
+        font-size: 15px;
+        padding: 8px 20px;
+    }
+
+    .userprofilesec button {
+        margin-bottom: 10px;
+    }
+
+    form.d-flex {
+        margin-top: 10px;
+    }
+
+    .login .input-group {
+        height: 55px;
+    }
+
+    .matrimonialform.mt-5.mb-5.container-fluid {
+        padding-left: 15px;
+        padding-right: 15px;
+    }
+
+    .matrimonialform button.submitforms {
+        width: 100%;
+    }
+
+    .plus .fa-plus {
+        top: 0px;
+        left: 0px;
+    }
+
+    .plus .fa-minus {
+        top: 0px;
+        left: 5px;
+    }
+    
+}
+
+.form-control[type=file]:not(:disabled):not([readonly]) {
+    cursor: pointer;
+    padding-top: 16px;
+    padding-left: 20px;
+}
